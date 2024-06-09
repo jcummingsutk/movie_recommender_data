@@ -1,0 +1,6 @@
+database:
+  dev:
+    host: db-movie-recommender-do-user-16701211-0.c.db.ondigitalocean.com
+    user: doadmin
+    port: 25060
+    database: dev
