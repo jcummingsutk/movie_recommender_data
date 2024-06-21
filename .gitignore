@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 config_secret.yaml
-notebooks
+notebooks_local
